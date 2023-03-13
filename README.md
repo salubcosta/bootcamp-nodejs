@@ -30,3 +30,5 @@
 <p>Criação de uma API REST e/ou GraphQL com integração com bancos de dados utilizando o conteúdo visto em todos os módulos.</p>
 </li>
 </ul>
+
+URL: [XPEDUCAÇÃO](https://www.xpeducacao.com.br/bootcamp/desenvolvedor-node-js)
