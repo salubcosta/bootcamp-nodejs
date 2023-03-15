@@ -101,6 +101,4 @@
 </li>
 </ul>
 
-<p>
-  URL: [XPEDUCAÇÃO](https://www.xpeducacao.com.br/bootcamp/desenvolvedor-node-js)
-</p>
+Página do bootcamp: [XPEducação](https://www.xpeducacao.com.br/bootcamp/desenvolvedor-node-js/)
